@@ -1,0 +1,17 @@
+{
+  "name": "@xxllxx/vue-context-menu",
+  "description": "vue 右键菜单",
+  "version": "1.1.1",
+  "main": "index.js",
+  "author": "xxllxx",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XXllXX/vue-context-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XXllXX/vue-context-menu/issues"
+  },
+  "homepage": "https://github.com/eggjs/vue-context-menu#readme"
+}
